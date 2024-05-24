@@ -96,7 +96,7 @@ PC用のスタイル
     margin: 80px 0 30px 20px;
   }
   #nav-sp > a {
-    display:contents# block;
+    display: block;
   }
   #nav-sp > a:link {
     color: #ffffff;
